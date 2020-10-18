@@ -1,0 +1,10 @@
+{
+    "IP": ":8080",
+    "Log": {
+        "//OutLevel": "1(Log Write File & Stdout)、2(Log Write Stdout)、3(Log Write File)",
+        "OutLevel": 1,
+        "//Format": "1(Normal)、2(JSON)",
+        "Format": 1,
+        "Path": "./logs/"
+    }
+}
